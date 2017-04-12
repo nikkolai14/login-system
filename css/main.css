@@ -1,0 +1,17 @@
+body {
+	background-color: whitesmoke;
+}
+
+p {
+	margin: 14px 0;
+}
+
+.input-error {
+	border-color: #d9534f;
+}
+
+.error-msg {
+	color: #d9534f;	
+    margin-top: 1rem;
+    display: inline-block;
+}
